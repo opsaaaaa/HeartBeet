@@ -1,6 +1,6 @@
-package net.fabricmc.example.mixin;
+package net.heartbeet.example.mixin;
 
-import net.fabricmc.example.ExampleMod;
+import net.heartbeet.example.ExampleMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
